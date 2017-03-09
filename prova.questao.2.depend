@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1434072493 source:c:\users\adriano\desktop\multiboot\projetos_c\prova.questao.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487640342 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\intro_prova.questao.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
